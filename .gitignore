@@ -1,0 +1,25 @@
+
+# Ignore binary files built by the engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.log
+*.tmp
+
+# Ignore local files
+*.db
+*.sln
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Ignore auto-generated Visual Studio files
+.vscode/
+*.VC.db
+*.VC.opendb
